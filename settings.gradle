@@ -1,0 +1,2 @@
+rootProject.name='Antar Makanan'
+include ':app'
